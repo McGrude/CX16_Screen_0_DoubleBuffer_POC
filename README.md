@@ -4,5 +4,7 @@ Tested on R49 Emulator and R48 Hardware.
 
 Wait about 10 second after running for it to begin animating.
 
+After stopping you may need to "RESET" to get back to a normal screen 0.
+
 
 
